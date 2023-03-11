@@ -111,7 +111,7 @@ _created user interface for sort books and subcommands._
 ## License
 <!--This software is simple and therefore licensed as broadly as possible.-->
 
-Copyright (C) 2022 Steven Lin <stevenlin3@cmail.carleton.ca> et al.
+Copyright (C) 2022 Steven Lin <stevenlin1238@outlook.com> et al.
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
