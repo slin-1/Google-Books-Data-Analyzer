@@ -11,15 +11,15 @@ Project is composed of these files:
 
 `google_books_dataset.csv`  
 _sample dataset to buid library from_  
-`T008_check_equal.py`  
+`check_equal.py`  
 _simple unit testing function_  
-`T008_P2_add_remove_search_dataset.py`  
+`add_remove_search_dataset.py`  
 _contains functions to add, remove and search the dataset_  
-`T008_P3_sorting_fun.py`  
+`sorting_fun.py`  
 _contains functions to sort the dataset_  
-`T008_P4_booksUI.py`  
+`booksUI.py`  
 _the user interface for this program_  
-`T008_P5_load_data.py`  
+`load_data.py`  
 _the function that converts dataset to dictionary_
 
 ## Installation
