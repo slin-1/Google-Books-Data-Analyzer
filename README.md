@@ -9,25 +9,25 @@ that data.
 
 Project is composed of these files:
 
+_sample dataset to buid library from:_  
 `google_books_dataset.csv`  
-_sample dataset to buid library from_  
+_simple unit testing function:_  
 `check_equal.py`  
-_simple unit testing function_  
+_contains functions to add, remove and search the dataset:_  
 `add_remove_search_dataset.py`  
-_contains functions to add, remove and search the dataset_  
+_contains functions to sort the dataset:_  
 `sorting_fun.py`  
-_contains functions to sort the dataset_  
+_the user interface for this program:_  
 `booksUI.py`  
-_the user interface for this program_  
+_the function that converts dataset to dictionary:_  
 `load_data.py`  
-_the function that converts dataset to dictionary_
 
 ## Installation
-Python version 3.10 or later
+Python version 3.10 or later  
 No external python libraries are used.
 
 ## Usage
-Launch the main script program for user interface `T008_P4_booksUI.py`
+Launch the main script program for user interface `booksUI.py`
 follow instructions to select data file to load.
 
 To begin, enter the command "L" to be able to select file to load.
